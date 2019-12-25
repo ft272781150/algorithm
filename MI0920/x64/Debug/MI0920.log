@@ -1,0 +1,6 @@
+﻿  first.cpp
+d:\algorithm\toutiao\mi0920\first.cpp(43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\algorithm\toutiao\mi0920\first.cpp(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\algorithm\toutiao\mi0920\first.cpp(77): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MI0920.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\MI0920.exe
+  MI0920.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\MI0920.pdb (Full PDB)

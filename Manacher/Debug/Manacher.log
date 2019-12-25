@@ -1,0 +1,5 @@
+﻿  Manacher.cpp
+d:\algorithm\algorithmpractice2\manacher\manacher.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice2\manacher\manacher.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+  Manacher.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\Manacher.exe
+  Manacher.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\Manacher.pdb (Full PDB)

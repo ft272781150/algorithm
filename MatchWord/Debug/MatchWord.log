@@ -1,0 +1,5 @@
+﻿  MatchWord.cpp
+d:\algorithm\algorithmpractice\matchword\matchword.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\matchword\matchword.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+  MatchWord.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\MatchWord.exe
+  MatchWord.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\MatchWord.pdb (Full PDB)

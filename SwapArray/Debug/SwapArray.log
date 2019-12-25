@@ -1,0 +1,7 @@
+﻿  SwapArray.cpp
+d:\algorithm\algorithmpractice2\swaparray\swaparray.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice2\swaparray\swaparray.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice2\swaparray\swaparray.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice2\swaparray\swaparray.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+  SwapArray.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\SwapArray.exe
+  SwapArray.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\SwapArray.pdb (Full PDB)

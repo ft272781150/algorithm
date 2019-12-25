@@ -1,0 +1,4 @@
+﻿  PerfectNumber.cpp
+d:\algorithm\algorithmpractice\perfectnumber\perfectnumber.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+  PerfectNumber.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\PerfectNumber.exe
+  PerfectNumber.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\PerfectNumber.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  LastK.cpp
+d:\algorithm\algorithmpractice2\lastk\lastk.cpp(21): warning C4018: “>=”: 有符号/无符号不匹配
+  LastK.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\LastK.exe
+  LastK.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\LastK.pdb (Full PDB)

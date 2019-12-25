@@ -1,0 +1,5 @@
+﻿  DNA.cpp
+d:\algorithm\algorithmpractice\dna\dna.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\dna\dna.cpp(35): warning C4018: “<=”: 有符号/无符号不匹配
+  DNA.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\DNA.exe
+  DNA.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\DNA.pdb (Full PDB)

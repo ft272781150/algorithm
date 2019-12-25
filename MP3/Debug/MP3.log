@@ -1,0 +1,5 @@
+﻿  MP3.cpp
+d:\algorithm\algorithmpractice\mp3\mp3.cpp(67): error C2059: 语法错误:“}”
+d:\algorithm\algorithmpractice\mp3\mp3.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\mp3\mp3.cpp(100): error C2660: “move”: 函数不接受 3 个参数
+d:\algorithm\algorithmpractice\mp3\mp3.cpp(103): warning C4018: “<”: 有符号/无符号不匹配

@@ -1,0 +1,5 @@
+﻿  Stack2.cpp
+d:\algorithm\algorithmpractice2\stack2\stack2.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice2\stack2\stack2.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  Stack2.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\Stack2.exe
+  Stack2.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\Stack2.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  Sort2.cpp
+d:\algorithm\algorithmpractice\sort2\sort2.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\sort2\sort2.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\sort2\sort2.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+  Sort2.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\Sort2.exe
+  Sort2.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\Sort2.pdb (Full PDB)

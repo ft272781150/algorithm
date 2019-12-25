@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\algorithm\toutiao\test1008\main.cpp(61): warning C4172: 返回局部变量或临时变量的地址: c
+  test1008.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\test1008.exe
+  test1008.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\test1008.pdb (Full PDB)

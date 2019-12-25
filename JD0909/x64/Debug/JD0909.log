@@ -1,0 +1,5 @@
+﻿  Second.cpp
+d:\algorithm\toutiao\jd0909\second.cpp(33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\algorithm\toutiao\jd0909\second.cpp(54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  JD0909.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\JD0909.exe
+  JD0909.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\JD0909.pdb (Full PDB)

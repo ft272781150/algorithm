@@ -1,0 +1,7 @@
+﻿  StringSplit.cpp
+d:\algorithm\algorithmpractice\stringsplit\stringsplit.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\stringsplit\stringsplit.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\stringsplit\stringsplit.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\stringsplit\stringsplit.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+  StringSplit.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\StringSplit.exe
+  StringSplit.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\StringSplit.pdb (Full PDB)

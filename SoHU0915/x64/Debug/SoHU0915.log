@@ -1,0 +1,5 @@
+﻿  cal.cpp
+d:\algorithm\toutiao\sohu0915\cal.cpp(19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\algorithm\toutiao\sohu0915\cal.cpp(22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SoHU0915.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\SoHU0915.exe
+  SoHU0915.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\SoHU0915.pdb (Full PDB)

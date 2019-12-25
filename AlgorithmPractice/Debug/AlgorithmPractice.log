@@ -1,0 +1,7 @@
+﻿  Levenshtein.cpp
+d:\algorithm\algorithmpractice\algorithmpractice\levenshtein.cpp(114): warning C4018: “<=”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\algorithmpractice\levenshtein.cpp(115): warning C4018: “<=”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\algorithmpractice\levenshtein.cpp(116): warning C4018: “<=”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\algorithmpractice\levenshtein.cpp(117): warning C4018: “<=”: 有符号/无符号不匹配
+  AlgorithmPractice.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\AlgorithmPractice.exe
+  AlgorithmPractice.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\AlgorithmPractice.pdb (Full PDB)

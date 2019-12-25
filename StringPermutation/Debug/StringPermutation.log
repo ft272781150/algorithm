@@ -1,0 +1,5 @@
+﻿  StringPermutation.cpp
+d:\algorithm\algorithmpractice2\stringpermutation\stringpermutation.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice2\stringpermutation\stringpermutation.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+  StringPermutation.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\StringPermutation.exe
+  StringPermutation.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\StringPermutation.pdb (Full PDB)

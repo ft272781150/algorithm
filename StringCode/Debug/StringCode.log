@@ -1,0 +1,6 @@
+﻿  StringCode.cpp
+d:\algorithm\algorithmpractice2\stringcode\stringcode.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice2\stringcode\stringcode.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice2\stringcode\stringcode.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+  StringCode.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\StringCode.exe
+  StringCode.vcxproj -> D:\Algorithm\AlgorithmPractice2\Debug\StringCode.pdb (Full PDB)

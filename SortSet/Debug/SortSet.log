@@ -1,0 +1,4 @@
+﻿  Sort.cpp
+d:\algorithm\algorithmpractice\sortset\sort.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+  SortSet.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\SortSet.exe
+  SortSet.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\SortSet.pdb (Full PDB)

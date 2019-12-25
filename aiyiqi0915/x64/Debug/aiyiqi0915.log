@@ -1,0 +1,6 @@
+﻿  food.cpp
+  LuckyID.cpp
+d:\algorithm\toutiao\aiyiqi0915\luckyid.cpp(55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  aiyiqi0915.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\aiyiqi0915.exe
+  aiyiqi0915.vcxproj -> D:\Algorithm\TouTiao\x64\Debug\aiyiqi0915.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  FirstOne.cpp
+d:\algorithm\algorithmpractice\firstone\firstone.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+d:\algorithm\algorithmpractice\firstone\firstone.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+  FirstOne.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\FirstOne.exe
+  FirstOne.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\FirstOne.pdb (Full PDB)

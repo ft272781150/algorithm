@@ -1,0 +1,4 @@
+﻿  MatrixMultiplyCount.cpp
+d:\algorithm\algorithmpractice\matrixmultiplycount\matrixmultiplycount.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+  MatrixMultiplyCount.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\MatrixMultiplyCount.exe
+  MatrixMultiplyCount.vcxproj -> D:\Algorithm\AlgorithmPractice\Debug\MatrixMultiplyCount.pdb (Full PDB)
